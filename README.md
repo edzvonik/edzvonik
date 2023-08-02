@@ -9,7 +9,7 @@
 ## 💻 Навыки и технологии
 
 - Основные языки: Java, SQL
-- Фреймворки: Spring Framework (включая Spring Boot, Spring Data, Spring Security)
+- Фреймворки: Spring Framework (Spring Boot, Spring Data, Spring Security)
 - Базы данных: MySQL, PostgreSQL, MongoDB
 - Дополнительные технологии: Docker
 - Тестирование: JUnit, Mockito
@@ -21,8 +21,8 @@
 
 ## 📫 Как со мной связаться
 
-- 📧 [Email](ev.dzvonik@gmail.com)
+- 📧 [Email](mailto:ev.dzvonik@gmail.com)
 - 🌐 [Website](https://dzvonik.ru)
-- 💬 [Telegram](edzvonik)
+- 💬 [Telegram](https://t.me/edzvonik)
 
 Если у вас есть какие-то вопросы или вы просто хотите поговорить о технологиях - пишите. Всегда рад новым знакомствам и общению!
