@@ -18,7 +18,7 @@ I love tackling challenging problems, and my passion for learning allows me to q
 
 ## 📈 My Github Stats
 
-[![Your Name's Github Stats](https://github-readme-stats.vercel.app/api?username=your_github_username)](https://github.com/your_github_username/github-readme-stats)
+[![Your Name's Github Stats](https://github-readme-stats.vercel.app/api?username=edzvonik)](https://github.com/edzvonik/github-readme-stats)
 
 ## 👨‍💻 Some of My Projects
 
