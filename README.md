@@ -1,35 +1,28 @@
-# Welcome! 👋
+# Приветствую! 👋
+Меня зовут Дзвоник Евгений и я - Java Developer. Спасибо, что посетили мой GitHub профиль!
 
-My name is Evgenii Dzvonik, and I'm a Java Developer. Thank you for visiting my GitHub profile!
+## 🚀 Обо мне
 
-## 🚀 About Me
+Я люблю решать сложные задачи, и мое стремление к обучению позволяет мне быстро усваивать новые технологии.
+Помимо работы над проектами, я уделяю время изучению новых технологий и концепций, что позволяет мне быть в курсе последних тенденций в индустрии. Кроме того, я активно участвую в сообществе разработчиков, обмениваюсь знаниями и опытом, и всегда открыт для общения и новых знакомств.
 
-I love tackling challenging problems, and my passion for learning allows me to quickly adopt new technologies. With extensive experience in Java, I develop efficient and high-quality software solutions that help achieve business goals.
+## 💻 Стек
 
-## 💻 My Tech Stack
+- Основные языки: Java, SQL
+- Фреймворки: Spring Framework (включая Spring Boot, Spring Data, Spring Security)
+- Базы данных: MySQL, PostgreSQL, MongoDB
+- Дополнительные технологии: Docker
+- Тестирование: JUnit, Mockito
+- Контроль версий: Git
 
-- Core Languages: Java, SQL
-- Frameworks: Spring Framework (including Spring Boot, Spring Data, Spring Security)
-- Databases: MySQL, PostgreSQL, MongoDB
-- Additional Technologies: Docker, Linux
-- CI/CD Tools: Jenkins
-- Testing: JUnit, Mockito
-- Version Control: Git
-
-## 📈 My Github Stats
+## 📈 Моя статистика Github
 
 [![Your Name's Github Stats](https://github-readme-stats.vercel.app/api?username=edzvonik)](https://github.com/edzvonik/github-readme-stats)
 
-## 👨‍💻 Some of My Projects
+## 📫 Как со мной связаться
 
-- **[Project 1 Name](link_to_project_1)**: Brief description of Project 1.
-- **[Project 2 Name](link_to_project_2)**: Brief description of Project 2.
-- **[Project 3 Name](link_to_project_3)**: Brief description of Project 3.
+- 📧 [Email](ev.dzvonik@gmail.com)
+- 🌐 [Website](https://dzvonik.ru)
+- 💬 [Telegram](edzvonik)
 
-## 📫 How to Reach Me
-
-- 📧 Email: [Your Email]
-- 🔗 LinkedIn: [Your LinkedIn](link_to_your_linkedin_profile)
-- 🐦 Twitter: [Your Twitter](link_to_your_twitter_profile)
-
-Feel free to get in touch if you have any questions or just want to chat about technology. I'm always open to new connections and discussions!
+Если у вас есть какие-то вопросы или вы просто хотите поговорить о технологиях - пишите. Всегда рад новым знакомствам и общению!
