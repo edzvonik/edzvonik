@@ -8,10 +8,10 @@
 ## 💻 Навыки и технологии
 
 - Основные языки: Java, SQL
-- Фреймворки: Spring Framework (Spring Boot, Spring Data, Spring Security)
+- Фреймворки: Spring Framework (Spring Boot, Spring Data)
 - Базы данных: PostgreSQL, MySQL
-- Дополнительные технологии: Servlets, JSP, Tomcat, Thymeleaf, Linux, Docker
-- Тестирование: JUnit, Mockito
+- Дополнительные технологии: Servlets, JSP, Thymeleaf, Tomcat, Linux, Docker
+- Тестирование: JUnit 5, Mockito
 - Контроль версий: Git
 
 ## 📈 Моя статистика Github
