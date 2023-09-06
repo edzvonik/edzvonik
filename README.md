@@ -16,7 +16,6 @@
 
 ## 📫 Как со мной связаться
 
-- 📄 [Резюме (в данный момент закрыто)](https://spb.hh.ru/resume/31b28e9bff0b6fea090039ed1f5256547a6841)
 - 📧 [Email](mailto:ev.dzvonik@gmail.com)
 - 💬 [Telegram](https://t.me/edzvonik)
 - 🌐 [Website](https://dzvonik.ru)
