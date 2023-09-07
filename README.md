@@ -6,7 +6,7 @@
 - Основные языки: Java, SQL
 - Фреймворки: Spring Framework (Spring Boot, Spring Data), JavaFX
 - Базы данных: PostgreSQL, MySQL
-- Дополнительные технологии: Servlets, JSP, Thymeleaf, Tomcat, Linux, Docker
+- Дополнительные технологии: Bootstrap, Thymeleaf, Tomcat, Linux, Docker
 - Тестирование: JUnit 5, Mockito
 - Контроль версий: Git
 
