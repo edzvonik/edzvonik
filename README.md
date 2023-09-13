@@ -10,10 +10,6 @@
 - Тестирование: JUnit 5, Mockito
 - Контроль версий: Git
 
-## 📈 Моя статистика Github
-
-[![Your Name's Github Stats](https://github-readme-stats.vercel.app/api?username=edzvonik)](https://github.com/edzvonik/github-readme-stats)
-
 ## 📫 Как со мной связаться
 
 - 📧 [Email](mailto:ev.dzvonik@gmail.com)
